@@ -2,12 +2,13 @@
 
 ## ✨ Stack
 -  [ ] React
+-  [ ] Vite
 -  [ ] Typescript
 -  [ ] Tailwind CSS
 -  [ ] Headless CMS (Content Management System) com graphcms
 -  [ ] @apollo/client and Graphql
 -  [ ] svg2jsx para gerar um componente SVG (https://svg2jsx.com/)
--  [ ] Phosphor icon family (https://phosphoricons.com/)
+-  [ ] Phosphor icons family (https://phosphoricons.com/)
 -  [ ] classnames lib
 -  [ ] graphql-code-generator (https://www.graphql-code-generator.com/docs/getting-startedinstallation
 
