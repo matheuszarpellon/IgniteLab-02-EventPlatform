@@ -1,4 +1,4 @@
-![App Screenshot](.github/cover.png)
+![App Screenshot](./cover.png)
 
 ## ✨ Stack
 -  [ ] React
